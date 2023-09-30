@@ -1,1 +1,1 @@
-read me
+0x00. Shell, basics
